@@ -14,6 +14,7 @@ NOTE: Images in the target folder MUST be named *.JPG (case sensitive)
 
 Output will be a file named "" in the Images dir, with this content:
 
+``
 [
   {
     "image" : "TOP_2023-12-02T223600_PICT3710_202312030600W4DUH.JPG",
@@ -27,3 +28,4 @@ Output will be a file named "" in the Images dir, with this content:
   },
   ...
 ]
+```

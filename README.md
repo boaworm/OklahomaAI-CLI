@@ -5,11 +5,14 @@ Run with:
 
 ./OklahomaAI-CLI /path/to/Images
 
-[!NOTE] Currently, image path MUST be an absolute path
+> [!NOTE] 
+> Currently, image path MUST be an absolute path
 
-[!NOTE] Image dir processing is not recursive
+> [!NOTE] 
+> Image dir processing is not recursive
 
-[!NOTE] Images in the target folder MUST be named *.JPG (case sensitive)
+> [!NOTE] 
+> Images in the target folder MUST be named *.JPG (case sensitive)
 
 
 Output will be a file named "" in the Images dir, with this content:

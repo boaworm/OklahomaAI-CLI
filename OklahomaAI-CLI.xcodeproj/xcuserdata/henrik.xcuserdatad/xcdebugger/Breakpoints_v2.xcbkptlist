@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "875B1963-15FC-4287-A1FA-035E14FC0CDD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F683A159-5832-4871-B9D7-318A8F57CA92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OklahomaAI-CLI/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "createJsonOutput(observations:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F683A159-5832-4871-B9D7-318A8F57CA92 - 64e7c6940a5dfc7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OklahomaAI_CLI.createJsonOutput(observations: Swift.Array&lt;OklahomaAI_CLI.Observation&gt;) -&gt; ()"
+                  moduleName = "OklahomaAI-CLI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/henrik/Documents/OklahomaAI/xcode/OklahomaAI-CLI/OklahomaAI-CLI/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "F683A159-5832-4871-B9D7-318A8F57CA92 - 64e7c6940a5df3d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OklahomaAI_CLI.createJsonOutput(observations: Swift.Array&lt;OklahomaAI_CLI.Observation&gt;) -&gt; ()"
+                  moduleName = "OklahomaAI-CLI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/henrik/Documents/OklahomaAI/xcode/OklahomaAI-CLI/OklahomaAI-CLI/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
